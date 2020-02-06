@@ -11,6 +11,7 @@ I would like to make this VR experience accessible via the web so that it can be
 - Oculus Quest
 - Oculus Controllers
 - Oculus Browser
+- Web app, hosted on GitHub or Glitch
 
 ## System
 Data:
