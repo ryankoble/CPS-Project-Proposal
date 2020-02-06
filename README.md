@@ -15,28 +15,30 @@ I would like to make this VR experience accessible via the web so that it can be
 
 ## System
 Data:
-- Instruments - 3D object files
-- Sounds
-- Backing-track
+- Instruments - 3D models (.obj, .blend, etc.)
+- Sounds - audio files (.mp3)
+- Backing-track - audio files (.mp3)
 
 Render:
-- VR environment is created
-- Instruments are rendered in VR environment
+- VR environment
+- Instruments in the environment
+- Lighting
+- Backing-track
 
 Simulation:
 - Possibly have visuals that are generated according to sounds
 
 Events:
-- Instrument interactions trigger sounds
+- interacting with instruments trigger sounds
      - Strum strings
      - Hit drum
      - Tap keys
 
 ## Difficulties
 - Adding interactivity using the Oculus Quest controllers.
-     - If I don't first understand how long this will take, this could end up taking too much time.
+     - If I don't first understand how long this will take, it could end up taking too much time.
 - Creating synthesized sounds if I decide to do that instead of simply playing audio tracks.
-     - If it looks like I'll be able to research this, I will incorporate it. Otherwise they will simply trigger audio files.
+     - If it looks like I'll have time to research this, I will incorporate it. Otherwise they will simply trigger audio files.
      
 ## Timeline
 February 4 - March 5
